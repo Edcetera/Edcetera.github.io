@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edcetera's blog</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>Refactoring the education system</description>
+    <pubDate>Tue, 20  Aug 2013 00:00:00 +0000</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:8080/articles/about-us/</link>
+      <pubDate>Tue, 20  Aug 2013 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/about-us/</guid>
+      <author></author>
+      <description>&lt;p&gt;Seeing that a large number of computers, in working condition and that still had a lot of life left, were being discarded we felt it was a huge loss of opportunity. After some days of thinking we felt these devices could be procured, refurbished and necessary educational content be installed, transforming these devices to great educational content delivery portals.&lt;/p&gt;
+&lt;h1&gt;Vision&lt;/h1&gt;
+&lt;p&gt;Education is a way of exploring the world around us and trying to know it better, not just a means to find a job. At one time, there were only teachers and books that could provide information about something. With internet this has changed and education system has not yet adopted, experimented or created any new methods of teaching. Education should be a thing of amazement, self-discovery and self exploration and only in this way it becomes something of great interest not a compulsion. &lt;/p&gt;
+&lt;p&gt;On a high level our idea included 3 stages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Procurement:&lt;/strong&gt;
+To procure the computers as donations from tech companies. Why would they donate? Apart from the environmental and social benefits that we would guarantee, the company can get Tax exemption on donated devices. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Transformation:&lt;/strong&gt;
+After procuring devices we would install a prepared package consisting of Educational Videos, Interactive Software, Software tools, computer learning tutorials and PDF&amp;#39;s or e-books. The package would also downgrade the devices to discourage frequent software and operating system issues. Some examples how impactful the latest educational content can be:&lt;/p&gt;
+&lt;p&gt; a. Stellarium: Amazing astronomy simulator.&lt;/p&gt;
+&lt;p&gt; b. Google Earth for all the geography learning needs.  &lt;/p&gt;
+&lt;p&gt; c. Khan Academy, Coursera, MIT etc videos.  &lt;/p&gt;
+&lt;p&gt; d. Ebooks of global standard.&lt;/p&gt;
+&lt;p&gt;While trying to assess the impact a computer can have on learning in semi-urban and rural areas we came across Sugata Mitra&amp;#39;s &lt;a href=&quot;http://www.hole-in-the-wall.com/&quot;&gt;Hole In The Wall&lt;/a&gt; experiment. It removed all doubts on whether a computer could be useful for education. We all have personally experienced the above to some extent, and Prof Walter Lewin of MIT summarises this amazingly in this &lt;a href=&quot;http://www.youtube.com/watch?v=sF-m3XZKvLI&quot;&gt;video&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Distribution:&lt;/strong&gt;
+Several different ways of distribution with no profit have been proposed such as: &lt;/p&gt;
+&lt;p&gt; a. Conducting scholarship tests and awarding a computer to students that would make most use of it.&lt;/p&gt;
+&lt;p&gt; b. Setting up computer labs in schools.&lt;/p&gt;
+&lt;p&gt; c. Accepting requests for computer on our website, judging the need provide the person with a computer. &lt;/p&gt;
+&lt;p&gt; d. Providing computers to NGOs that may use them to educate students.cd &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Meet our team&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Seema&lt;/strong&gt;, a software engineer working for TCS, very hard-working and motivated individual.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Saurabh&lt;/strong&gt;, works for Cisco and is great at Mathematics/Problem Solving.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abhishek&lt;/strong&gt;, working for TCS in sales and is a very confident and positive person.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tushar&lt;/strong&gt;, the God of computers and with him every computer related issue is solvable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Srinivasan&lt;/strong&gt;, a successful and passionate entrepreneur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pawan&lt;/strong&gt;, an MBA Graduate from at Indian School of Business, has great business acumen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vishal&lt;/strong&gt;, the founder.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
