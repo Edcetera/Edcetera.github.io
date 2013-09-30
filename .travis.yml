@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- '0.11'
+after_script:
+- sh deploy.sh
+branches:
+  only:
+  - develop
+env:
+  global:
+    secure: fyruhcYy3JM0oeLugbyQ0H5PLQuYBx3MszqJtwuext3wKY0kcgQZmoHB6IUXAVnQpwZUInYWQsijOYE8mF6wOvobFhArYafKdBAlueMFi1u2g1PYhvkHTxYmBCI4rlqu27/NcPADLoACrzras/oa0EHnOlUsrXCLro+dgntOUMo=
