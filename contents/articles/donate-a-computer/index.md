@@ -1,7 +1,0 @@
----
-title: Donate a computer
-author: vishal-kumar
-date: 2013-08-22
-template: article.jade
----
-#How YOU can help us?1.	Become a CorEd Partner in your firm; help us acquire used computers from your company.2.	Volunteer for us – come work with us for CorEd – we will offer you great brainstorming opportunities and will try our best to exhaust you. You could get roles from beta tester to administrator, whatever you love to do most, try us out.3.	Recommend content – CorEd is continuously looking for free and open source educational content in the form of videos/graphics/ebooks/software etc to enrich CorEd knowledge repository. You can write to us (contact us) with a link to the content.4.	Recognize computer deficit areas and write to us, we can together work towards getting the right educational content delivered to students.5.	Provide feedback to us and help us get better.6.	Simply like our Facebook page and follow our twitter handle, share our message and help us reach relevant people.#Why donate?-Reduce e waste help the environment-Provide learning opportunity to many-No hassles, CorEd takes care of everything.-Opportunity to change the way we educate our kids-Get tax exemption for your donation#Donate or Request a computerPlease fill out the form below to request or donate a computer.Your name:Email:If requesting for a PC please answer the following question:How do you plan to use the computer provided by us to have a positive impact in your life?

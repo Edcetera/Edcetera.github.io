@@ -1,9 +1,9 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "CorEd's blog",
-    "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
+    "name": "Edcetera's blog",
+    "owner": "Edcetera",
+    "description": "Refactoring the education system"
   },
   "plugins": [
     "./plugins/paginator.coffee"

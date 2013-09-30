@@ -1,8 +1,0 @@
----
-title: About us
-author: vishal-kumar
-date: 2013-08-22
-template: article.jade
----
-
-CorEd believes that computers can be an amazing tool in spreading education. Videos, interactive content, ebooks of various kinds make education a thing of amazement and self-discovery. CorEd aims at providing computers equipped with great educational content to learners and change the way we perceive education in India. According to CorEd, Education should be a way to understand the world better, to build creativity and generate awareness, in turn grow the confidence and build capabilities. Not just a means to find a job.#So how do we do this?Internet has proved revolutionary in changing the way we learn and educate ourselves. The internet gives an opportunity to discover things on your own and understand the world around us better. But unfortunately computer has not yet reached in major parts of India.On the other hand, India has a lot of tech companies that discard computers on a periodic basis. These discarded computers still have a lot of life left but sadly they find their way to landfills or junkyards. Apart from posing environmental hazard we believe that it’s a great opportunity lost. About 31,300,000 units of computers were discarded in 2010, more than 65% of which were in working condition. IMAGINE if we could take those computers, transform them into knowledge centers by creating an offline knowledge repository of great content and provide them to students who cannot afford buying a computer on their own. #The lifecycle of a computer after donation:*Working on creating good graphical content for this*

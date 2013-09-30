@@ -2,20 +2,8 @@
 view: none
 ---
 
-Wintersmith is made by [Johan Nordberg][1] and licensed under the [MIT-license][2].
-This footer text can be edited in about.md
+Education is a way of exploring the world around us and trying to know it better, not just a means to find a job. At one time, there were only teachers and books that could provide information about something. With internet this has changed and education system has not yet adopted, experimented or created any new methods of teaching. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
+Education should be a thing of amazement, self-discovery and self exploration and only in this way it becomes something of great interest not a compulsion. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-dolore eu fugiat nulla pariatur.
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-deserunt mollit anim id est laborum.
-
-
-[1]: http://johan-nordberg.com
-[2]: http://opensource.org/licenses/MIT
+We all have personally experienced the above to some extent, and **Prof. Walter Lewin** of MIT summarizes this amazingly in this [video](http://www.youtube.com/watch?v=sF-m3XZKvLI)
