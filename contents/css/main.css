@@ -381,6 +381,9 @@ code.lang-markdown .bullet {
 }
 
 @media (max-width: 900px) {
+  .main-nav {
+  	display: none;
+  }	
   body { font-size: 18px; }
 }
 
@@ -432,3 +435,20 @@ code.lang-markdown .bullet {
   }
 }
 
+.main-nav {
+   position: fixed;
+   top: 0;
+   right: 4px;
+}
+.main-nav ul{
+    margin:0
+}
+
+.main-nav ul li{
+    list-style: none;
+    display: inline;
+    background-color: #f0f0f0;
+    padding: .4em 1em;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
