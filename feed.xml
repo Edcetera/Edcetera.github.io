@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CorEd's blog</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description>Ramblings of an immor(t)al demigod</description>
+    <pubDate>Thu, 22  Aug 2013 00:00:00 +0000</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Donate a computer</title>
+      <link>http://localhost:8080/articles/donate-a-computer/</link>
+      <pubDate>Thu, 22  Aug 2013 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/donate-a-computer/</guid>
+      <author></author>
+      <description>&lt;h1&gt;How YOU can help us?&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Become a CorEd Partner in your firm; help us acquire used computers from your company.&lt;/li&gt;
+&lt;li&gt;Volunteer for us – come work with us for CorEd – we will offer you great brainstorming opportunities and will try our best to exhaust you. You could get roles from beta tester to administrator, whatever you love to do most, try us out.&lt;/li&gt;
+&lt;li&gt;Recommend content – CorEd is continuously looking for free and open source educational content in the form of videos/graphics/ebooks/software etc to enrich CorEd knowledge repository. You can write to us (contact us) with a link to the content.&lt;/li&gt;
+&lt;li&gt;Recognize computer deficit areas and write to us, we can together work towards getting the right educational content delivered to students.&lt;/li&gt;
+&lt;li&gt;Provide feedback to us and help us get better.&lt;/li&gt;
+&lt;li&gt;Simply like our Facebook page and follow our twitter handle, share our message and help us reach relevant people.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Why donate?&lt;/h1&gt;
+&lt;p&gt;-Reduce e waste help the environment
+-Provide learning opportunity to many
+-No hassles, CorEd takes care of everything.
+-Opportunity to change the way we educate our kids
+-Get tax exemption for your donation&lt;/p&gt;
+&lt;h1&gt;Donate or Request a computer&lt;/h1&gt;
+&lt;p&gt;Please fill out the form below to request or donate a computer.
+Your name:
+Email:
+If requesting for a PC please answer the following question:
+How do you plan to use the computer provided by us to have a positive impact in your life?&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>About us</title>
+      <link>http://localhost:8080/articles/about-us/</link>
+      <pubDate>Thu, 22  Aug 2013 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/about-us/</guid>
+      <author></author>
+      <description>&lt;p&gt;CorEd believes that computers can be an amazing tool in spreading education. Videos, interactive content, ebooks of various kinds make education a thing of amazement and self-discovery. CorEd aims at providing computers equipped with great educational content to learners and change the way we perceive education in India. &lt;/p&gt;
+&lt;p&gt;According to CorEd, Education should be a way to understand the world better, to build creativity and generate awareness, in turn grow the confidence and build capabilities. Not just a means to find a job.&lt;/p&gt;
+&lt;h1&gt;So how do we do this?&lt;/h1&gt;
+&lt;p&gt;Internet has proved revolutionary in changing the way we learn and educate ourselves. The internet gives an opportunity to discover things on your own and understand the world around us better. But unfortunately computer has not yet reached in major parts of India.&lt;/p&gt;
+&lt;p&gt;On the other hand, India has a lot of tech companies that discard computers on a periodic basis. These discarded computers still have a lot of life left but sadly they find their way to landfills or junkyards. Apart from posing environmental hazard we believe that it’s a great opportunity lost. About 31,300,000 units of computers were discarded in 2010, more than 65% of which were in working condition. IMAGINE if we could take those computers, transform them into knowledge centers by creating an offline knowledge repository of great content and provide them to students who cannot afford buying a computer on their own. &lt;/p&gt;
+&lt;h1&gt;The lifecycle of a computer after donation:&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Working on creating good graphical content for this&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
