@@ -8,7 +8,7 @@ build:
 deploy:
   steps:
     - lukevivier/gh-pages:
-        repo: Edcetera/edcetera.github.io
+        repo: edcetera/edcetera.github.io
         domain: edcetera.tk
         token: $GH_TOKEN
         basedir: build
